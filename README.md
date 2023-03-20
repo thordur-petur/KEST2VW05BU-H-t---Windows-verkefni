@@ -1,8 +1,12 @@
 # KEST2VW05BU-H-t---Windows-verkefni
 ### kest 2
-10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni)
+# 10.3.1.1 Lab - Windows Installation (engar spurningar eru í þessu verkefni) -done
 
-10.3.1.4 Lab - Finalize the Windows Installation
+# 10.3.1.4 Lab - Finalize the Windows Installation 
+Question:
+What options are available in the Driver tab?4
+
+After finalizing the Windows installation, what else can you do to improve your experience?
 
 3.1.2.5 Lab - Search for BIOS or UEFI Firmware Updates
 
