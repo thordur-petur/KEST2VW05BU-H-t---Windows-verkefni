@@ -28,9 +28,9 @@ NVMe support and ME FW version in BIOS Setup
 4. Select the Instant Flash utility in Tool menu to execute it.
 5. ASRock Instant Flash will automatically detect all devices and only list those BIOS versions which are suitable for your motherboard.
 6. Select the suitable BIOS version and flash.
-## 3.1.2.7 Lab - Install Third-Party Software in Windows
+## 3.1.2.7 Lab - Install Third-Party Software in Windows - done
 
-## 10.2.1.8 Lab - Create a Partition in Windows
+## 10.2.1.8 Lab - Create a Partition in Windows - done
 ### What tabs are listed in the ITE Test Document Properties window?
 1. General
 2. Details
@@ -63,7 +63,7 @@ Security
 ### Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
 so you can change who can see, run, or use the document or file.
 
-11.1.2.10 Lab - Explore the Windows Desktop
+## 11.1.2.10 Lab - Explore the Windows Desktop - done
 ### List some of the icons that are on the Desktop.
 1. Power
 2. Settings
@@ -94,7 +94,7 @@ it was like it opend a new tab of the program
 ### What can you do in the Notification & actions Settings window?
 you can re order the tasks in action center and turn on or off specific notifications
 
-11.1.3.4 Lab - Work with Task Manager
+## 11.1.3.4 Lab - Work with Task Manager
 
 11.1.4.11 Lab - Working with File Explorer
 
