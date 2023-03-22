@@ -28,7 +28,7 @@ NVMe support and ME FW version in BIOS Setup
 4. Select the Instant Flash utility in Tool menu to execute it.
 5. ASRock Instant Flash will automatically detect all devices and only list those BIOS versions which are suitable for your motherboard.
 6. Select the suitable BIOS version and flash.
-3.1.2.7 Lab - Install Third-Party Software in Windows
+## 3.1.2.7 Lab - Install Third-Party Software in Windows
 
 ## 10.2.1.8 Lab - Create a Partition in Windows
 ### What tabs are listed in the ITE Test Document Properties window?
