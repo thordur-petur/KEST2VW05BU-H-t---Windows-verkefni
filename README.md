@@ -30,9 +30,69 @@ NVMe support and ME FW version in BIOS Setup
 6. Select the suitable BIOS version and flash.
 3.1.2.7 Lab - Install Third-Party Software in Windows
 
-10.2.1.8 Lab - Create a Partition in Windows
+## 10.2.1.8 Lab - Create a Partition in Windows
+### What tabs are listed in the ITE Test Document Properties window?
+1. General
+2. Details
+3. Previous Versions
+### What happens if you do not run as administrator when you open the command prompt?
+if you where not a administrator you would have limited comands and options.
+### What type of File System is used for the ITE (I:) drive?
+Local Disk
+### What are the tabs in the ITE (I:) Properties window?
+1. General
+2. Tools
+3. Hardware
+4. Sharing
+5. Security
+6. ReadyBoost
+7. Previous Versions
+8. Quota
+9. Customize
+### When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS?
+1. Quota
+2. Previous Versions
+3. Security
+### What are the tabs in the ITE Test Document Properties window?
+1. General
+2. Details
+3. Previous Versions
+4. Security
+### When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS?
+Security
+### Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
+so you can change who can see, run, or use the document or file.
 
 11.1.2.10 Lab - Explore the Windows Desktop
+### List some of the icons that are on the Desktop.
+1. Power
+2. Settings
+3. Caculator
+4. Maps
+### What type of information is available on the Desktop and Taskbar?
+1. what user you are on 
+2. how the weather is
+3. news
+4. how the iconamy is doing
+### What are some of the available options?
+1.Pin to start
+2. Pin to taskbar
+3. Dont't show in this list
+4. on some go to file location
+### What are the available options in the Task View settings?
+New desktop
+### What happened?
+it was like it opend a new tab of the program
+### List some examples of system information below.
+1.Tablet mode
+2.connect
+3.note
+4.all settings
+5.vpn
+6.quiet hours
+7.location
+### What can you do in the Notification & actions Settings window?
+you can re order the tasks in action center and turn on or off specific notifications
 
 11.1.3.4 Lab - Work with Task Manager
 
