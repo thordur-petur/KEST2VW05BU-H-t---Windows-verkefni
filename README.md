@@ -183,6 +183,51 @@ just by going to library and deleting it there
 
 ## 11.2.1.5 Lab - Explore Control Panel Categories
 ### What are the viewing options?
+1.System and security
+2.user accounts
+3.network and internet
+4.hardware and sound
+5.programs
+6.apperance and personaliztion
+7.clock, language and region
+8.ease of acces
+### Which subcategory would help you troubleshoot common problems?
+Control Panel\System and Security\Security and Maintenance
+### Which subcategory allow a program through Windows Firewall?
+Control Panel\System and Security\Windows Firewall
+### Which subcategory allows you to view the basic network information and set up connections?
+Control Panel\Network and Internet\Network and Sharing Center
+### Which subcategory allows you to choose what happens when you insert a media or device?
+Control Panel\Hardware and Sound\AutoPlay
+### Which subcategory allows you to add a printer?
+Control Panel\Hardware and Sound\Devices and Printers
+### Which subcategory would you use to have a specific file type always open in a specified program?
+Control Panel\Programs\Default Programs
+### Which subcategory would you use to uninstall a program?
+Control Panel\Programs\Programs and Features
+### Which subcategory would you use to install the Windows telnet client?
+Control Panel\Programs\Programs and Features
+### Which subcategory would you use change the account type from administrator to standard?
+Control Panel\User Accounts\User Accounts
+### Which subcategory would you use to view, edit, or remove the web and Windows credentials?
+Control Panel\User Accounts\Credential Manager
+### Which subcategory would you use to customize the Taskbar?
+Control Panel\Appearance and Personalization\Personalization
+### Which subcategory would you use to show hidden files and folders?
+File Explorer Options
+### Which subcategory would you use to show extensions for known file types?
+File Explorer Options
+### Which subcategory would you use to change the time zone?
+Date and time
+### Which subcategory would you use to change date format?
+Control Panel\Clock, Language, and Region\Language
+### Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
+Region
+### Which subcategory would you use to configure the computer to read aloud any text on the screen?
+Control Panel\Ease of Access\Ease of Access Center
+### Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
+Control Panel\Ease of Access\Speech Recognition
+
 11.2.2.3 Lab - User Accounts
 
 11.2.5.8 Lab - Manage Virtual Memory
