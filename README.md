@@ -95,6 +95,17 @@ it was like it opend a new tab of the program
 you can re order the tasks in action center and turn on or off specific notifications
 
 ## 11.1.3.4 Lab - Work with Task Manager
+### What happened with Folder1 and Folder2 on the Desktop?
+it is in folder 1 now
+### What is the file extension for the text document?
+its txt
+### How would you do it?
+Ctrl + c, Crtl + v in folder 2
+### What are the attributes associated with this file?
+the attribute is A
+### What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+
+
 
 11.1.4.11 Lab - Working with File Explorer
 
