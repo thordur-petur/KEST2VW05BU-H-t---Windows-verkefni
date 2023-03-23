@@ -95,6 +95,60 @@ it was like it opend a new tab of the program
 you can re order the tasks in action center and turn on or off specific notifications
 
 ## 11.1.3.4 Lab - Work with Task Manager
+### What happened?
+it stoped the procram that was runing
+### What options are available?
+1.Expand
+2.End task
+3.Resource values
+4.create dump file
+5.go to details
+6.open file location
+7.search online
+8.properties
+### What statuses are listed?
+stoped or running
+### What are the available actions that can be taken?
+all the same as pefore and start and stop depending if its running or not
+### What is the current utilization of the CPU?
+2%
+### How many Apps, Background processes, and Windows processes (i.e Processes) are currently running?
+54
+### What is the total physical memory (MB)?
+8 GB
+### What is the available physical memory (MB)?
+5,5 GB
+### How much physical memory (MB) is being used by the computer?
+2.0 GB
+### What is the link speed? What type of Ethernet Adapter is in use on this computer?
+100 Kps and its Realtek PCIe GBE
+### What type of network connection (i.e Connection type) is in use?
+Ethernet
+### What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in Windows 7.
+10.11.214.51
+### What effect does this have on the columns?
+shows what is useing the least amount of memory
+### How could this be useful?
+if you are trying to find how much something is useing on your computer
+### The listed processes are divided by categories. What categories are listed?
+apps
+window processesors
+background processesors
+### Right-click a username. What are the available options?
+thordur
+### The Startup tab lists the processes that are started automatically during Windows startup. Click the Startup tab. Right-click a process and list the available options below.
+Disable
+open file location
+search online
+properties
+### What type of information can you get from this list?
+what starts up your computer and if you dont want it to start you can disable it
+### Why is it important for an administrator to understand how to work within the Task Manager?
+if a computer is running slow you can see what is doing it and shot it down and to know what the computer can handel
+
+
+
+## 11.1.4.11 Lab - Working with File Explorer
 ### What happened with Folder1 and Folder2 on the Desktop?
 it is in folder 1 now
 ### What is the file extension for the text document?
@@ -104,13 +158,31 @@ Ctrl + c, Crtl + v in folder 2
 ### What are the attributes associated with this file?
 the attribute is A
 ### What is the complete path to Folder3? (Hint: One way to find this information is in the folder properties.)
+C:\Users\thordur\Desktop\Folder 1\Folder 2
+### What happened? Why would you want to do this?
+it put a shortcut in quick access so you can get to it qicker and easier 
+### What are folders listed in the Local Disk (C:)?
+1. sIntel
+2. PerfLogs
+3. Program File
+4. Users
+5. Windows
+### Open the Users folder. List all the folders in the directory.
+Public and thordur
+### Were you able to open it? Explain
+yes. Bcouse i am on the account that that folder asosianted with
+### Open the Public folder. List all the folders in the directory
+1.Public Documents
+2. Public Downloads
+3. Public Music
+4. Public Pictures
+5. Public Videos
+### How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents
+from the computer?
+just by going to library and deleting it there
 
-
-
-11.1.4.11 Lab - Working with File Explorer
-
-11.2.1.5 Lab - Explore Control Panel Categories
-
+## 11.2.1.5 Lab - Explore Control Panel Categories
+### What are the viewing options?
 11.2.2.3 Lab - User Accounts
 
 11.2.5.8 Lab - Manage Virtual Memory
