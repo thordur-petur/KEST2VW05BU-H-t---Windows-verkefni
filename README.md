@@ -228,13 +228,66 @@ Control Panel\Ease of Access\Ease of Access Center
 ### Which subcategory would you use to improve the computer’s ability to understand your voice and improve the dictation accuracy?
 Control Panel\Ease of Access\Speech Recognition
 
-11.2.2.3 Lab - User Accounts
+## 11.2.2.3 Lab - User Accounts
+### What is the advantage of having most users work within a Standard user account?
+easier to separate and organize work and personal files, and to manage multiple projects or tasks
+### For this lab, select Delete Files. What are the other options? When would you choose the other options?
+Delete Files this is for if you want nothing that the acount was working on to stay
+keep Files this is for if you want to keep the thinks the acount was working on
+cancel this is to stop the proses and keep the acount
+### Why is it important to protect all accounts with strong passwords?
+so none that souldent be there cant get in
+### Why would you create a user with Standard privileges?
+so you can look over them and so they dont change anything they souldent
+### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
+if the think they where working on where importent to the compani or team
 
-11.2.5.8 Lab - Manage Virtual Memory
+## 11.2.5.8 Lab - Manage Virtual Memory
+### What is the current size of the virtual memory (paging file)?
+1920 MB
+### What Drive [Volume Label] contains the paging file?
+driver C
+### What is the recommended paging file size for all drives?
+1979 MB
+### What Drive [Volume Label] contains the paging file?
+driver I
+### Why would you ever change the default virtual memory page file settings in Windows?
+if it is to small your computer will run slower
+### Browse through the menus displayed at the top of the Device Manager window. How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+go to disk driver click the driver that is there and go to driver tab and click update driver
+### What additional information does Driver Details provide?
+Driver Provider
+Driver date
+Driver Version
+Digital signer
+### What two options do you have for updating the driver?
+search atomatically or browse my computer for software
+### What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+if the divice fails after the driver instalsion. this is for if the driver is foulty you can go back to normal before you intaled the driver
+### What are the other available options?
+Driver Details
+Disable
+Uninstall
 
-11.2.6.2 Lab - Use Device Manager
+## 11.2.6.2 Lab - Use Device Manager
+### What information is listed in the Device Manager window? Why would you use it?
+it is all the things conected to the computer and everything in the computer. you would use this to see if something is conecting
 
-11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
+
+## 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler) -not done
+### Record a listed printer below
+Fax
+microsoft print to pdf
+microsoft XPS document writer
+### What message did you receive? How would you fix this?
+it says i cant print and i fix it by starting printer spooler again
+### When DHCP Client stops, what other services will also be stopped?
+The IP Helper service
+### Why is it important to exercise care when managing services?
+becouse it can be dangures if you turn some program off
+### What is the full path name to the example file name?
+C:\PerfLogs
+
 
 11.3.2.7 Lab - System Utilities
 
