@@ -274,7 +274,7 @@ Uninstall
 it is all the things conected to the computer and everything in the computer. you would use this to see if something is conecting
 
 
-## 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler) -not done
+## 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
 ### Record a listed printer below
 Fax
 microsoft print to pdf
@@ -289,7 +289,15 @@ becouse it can be dangures if you turn some program off
 C:\PerfLogs
 
 
-11.3.2.7 Lab - System Utilities
+## 11.3.2.7 Lab - System Utilities
+### What does the column farthest to the right show?
+Console Root/Management Tools
+### What is the background picture?
+just a basic windows picture
+### What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
+0/0/0
+### What is the data value of the Background?
+0/0/0
 
 11.3.2.8 Lab - Manage System Files
 
