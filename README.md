@@ -344,6 +344,21 @@ to see what your device has
 if i wanna know anything about the drivers
 
 ## 11.4.1.5 Lab - Work in the Windows Command Shell - not done
+CD Specifies that you want to change to the parent directory
+CHKDSK Specifies the drive letter (followed by a colon)
+COPY Specifies the file or files to be copied
+DEL Deltets a file or directory
+DIR Specifies drive, directory, and/or files to list.
+DISKPART helps you manage your computer's drives (disks, partitions, volumes, or virtual hard disks)
+EXIT Quits the CMD.EXE program
+FORMAT Formats a disk for use with Windows.
+GPRESULT This command line tool displays the Resultant Set of Policy (RSoP) information for a target user and computer.
+MD MKDIR creates any intermediate directories in the path, if needed. For example, assume \a does not exist then:
+TASKLIST This tool displays a list of currently running processes on either a local or remote machine.
+RD Remove or deletes Directorys
+ROBOCOPY copying large datasets or lots of files across volumes and is a great tool for backing up data
+SHUTDOWN ends all processes running on the system
+XCOPY Copies directories, subdirectories, and files
 
 
 ## 11.4.2.7 Lab - File System Commands - not done
