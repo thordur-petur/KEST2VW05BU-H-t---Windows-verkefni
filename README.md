@@ -297,13 +297,56 @@ just a basic windows picture
 ### What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
 0/0/0
 ### What is the data value of the Background?
-0/0/0
+232/17/35
+### What is the data value of the Background?
+it is what you have in the notepad like i have it at 255 255 255
+### What is the color of the desktop?
+still red
+### What is the color of the desktop?
+white
+### Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+you can create management consoles that include only the administrative tools that you need
+### After restarting the computer, why was the desktop color changed?
+becouse the background restars when the computer restars
 
-11.3.2.8 Lab - Manage System Files
+## 11.3.2.8 Lab - Manage System Files
+### BIOS Version/Date:
+P1.60
+### Total Physical Memory:
+7,68
+### DMA channels and the device using the resources.
+Direct memory acces controller
+### Adapter Description:
+intel(R) HD Graphics 4400
+### Adapter RAM:
+1,00gb (*buch of numbers* bytes)
+### Under the Software Environment heading, where would you find the applications that automatically load when the computer boots
+Startup program
+### What are the startup options?
+Normal startup
+diagonstic startup
+selective startup
+### Can you enable and disable services at this tab?
+you can enable or disable anyone you like
+### What can you do in this tab?
+you can start up basic tabs that are usfull like task manager and computer management and other thing that i am to sceart of launching
+### What does this tool report?
+basic hardwear and softwear on the computer
+### What information is listed on this page?
+version of the drivers and display mode and grahics card
+### Click Next Page until you are at the Sound tab
+more drivers and some other device i am not sure what is
+### What information is listed on this page?
+all the avalable outlets on this devise like usb
+### Why would it be beneficial to turn off a service in the system configuration?
+to see what your device has
+### When would you use the startup tab of the system configuration tool?
+if i wanna know anything about the drivers
 
-11.4.1.5 Lab - Work in the Windows Command Shell
+## 11.4.1.5 Lab - Work in the Windows Command Shell - not done
 
-11.4.2.7 Lab - File System Commands
+
+## 11.4.2.7 Lab - File System Commands - not done
 
 11.4.3.2 Lab - Disk CLI Commands
 
