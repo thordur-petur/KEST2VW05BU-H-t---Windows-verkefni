@@ -343,7 +343,7 @@ to see what your device has
 ### When would you use the startup tab of the system configuration tool?
 if i wanna know anything about the drivers
 
-## 11.4.1.5 Lab - Work in the Windows Command Shell - not done
+## 11.4.1.5 Lab - Work in the Windows Command Shell
 CD Specifies that you want to change to the parent directory
 CHKDSK Specifies the drive letter (followed by a colon)
 COPY Specifies the file or files to be copied
@@ -359,13 +359,78 @@ RD Remove or deletes Directorys
 ROBOCOPY copying large datasets or lots of files across volumes and is a great tool for backing up data
 SHUTDOWN ends all processes running on the system
 XCOPY Copies directories, subdirectories, and files
-
+### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
+MKDIR a
+CD a
+MKDIR b
+CD b
+MKDIR c
+### What command would you use to verify the creation of the nested directories?
+dir
+### What command did you use?
+cls
+### What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+cls
+### What is the last command?
+dir
 
 ## 11.4.2.7 Lab - File System Commands - not done
+### What is the current directory?
+Users/thordur
+### Which folder are you in now?
+thordur\Desktop\Folder 1>
+### What command or commands did you use to create the nested folders?
+MKDIR
+### After issuing the cd .. command, what is your directory now?
+Users/thordur/Desktop
+### What would be the current directory if you issue this command at
+C:\Users\ITEUser\ITEfolder3
+### What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
+del doc2*
+### What command would you use to delete all the files in the directory? Use the command to remove the files.
+rm -r inside the directorie
+### What option allows you to copy all the files and directories, including the empty directories?
+xcopy
+### What are the advantages of using CLI vs. GUI?
+Faster and more accurate and you only have to use your keyboard and it takes less memory
 
-11.4.3.2 Lab - Disk CLI Commands
+## 11.4.3.2 Lab - Disk CLI Commands
+### What is the option to fix errors on the drive?
+ chkdsk/F
+### What is the option to force the volume to dismount first if necessary?
+chkdsk/X
+### What is the option to locate bad sectors and recover readable information?
+chkdsk/R
+### What happened? Explain.
+it test the disk seeing the space and security and other things
+### What is the file system of the drive?
+NTFS
+### Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
+nothing
+### What option is used to determine the maximum number of bytes that the volume can be shrink by?
 
-11.4.4.2 Lab - Task and System CLI Commands
+
+## 11.4.4.2 Lab - Task and System CLI Commands
+### What command would you use to display the results of tasklist one page at a time?
+takslist
+### What is the option to list the modules that are associated with a task?
+tasklist/FI
+### What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+tasklist/M oleaut32.dll
+lsass.exe                      608 OLEAUT32.dll
+svchost.exe                    700 OLEAUT32.dll
+svchost.exe                    852 OLEAUT32.dll
+###What command would you use to find out all the tasks that are associated with your username?
+tasklist/U
+### What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+### What would you add to the command so you can view the output one page at a time?
+dir/p
+### Enter the command to log off your computer. Record the command below.
+shutdown
+### Record the command below. What warning message did you see?
+
+### What command would you use to abort the shutdown?
+
 
 11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
 
