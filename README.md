@@ -426,14 +426,15 @@ tasklist/U
 ### What would you add to the command so you can view the output one page at a time?
 dir/p
 ### Enter the command to log off your computer. Record the command below.
-shutdown
+shutdown -r
 ### Record the command below. What warning message did you see?
-
+it will shutdown in 1 min
 ### What command would you use to abort the shutdown?
+shutdown -a
 
-
-11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
-
+## 11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
+### When does the password expire?
+every 6 months
 
 
 Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
