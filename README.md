@@ -439,7 +439,20 @@ every 6 months
 
 Í eftirfarandi verkefnum þurfa tveir hópar að vinna saman.
 
-11.5.2.4 Lab - Share Resources
+## 11.5.2.4 Lab - Share Resources
+### What is the name of your computer? Provide your computer name and shared folder name to your partner.
+its just my name
+### What are the default permissions?
+### viewWhat needs to be changed to allow any remote users to make changes in the ShareXX folder?
+check the box for all accsess
 
-11.5.6.2 Lab - Windows Remote Desktop and Assistance
-
+## 11.5.6.2 Lab - Windows Remote Desktop and Assistance
+### Reflection Questions
+### 1. What type of scenarios are most appropriate for Remote Assistance in contrast with Remote Desktop? Type your answers here.
+Remote desktop is for unattended access. Remote assistance is for remote collaboration
+### 2. How many simultaneous users can access a Windows computer at a single time? Type your answers here.
+up to two
+### 3. What type of security components are implemented with Windows Remote Desktop? Type your answers here.
+verfification and password are neededd
+### 4. How could remote desktop be used as a beneficial technology in the workplace? Type your answers here.
+ease accesss to other computer like covid IT
